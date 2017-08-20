@@ -4,4 +4,4 @@ es:
       no_comments_message: "No hay comentarios aún. ¡Sé el primero!"
       delete_btn: "Eliminar"
       delete_btn_confirm: "¿Estás seguro de eliminar tu comentario?"
-      time_ago: " Hace %{time_ago}"
+      time_ago: "Hace %{time_ago}"
